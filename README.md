@@ -74,5 +74,5 @@ Inspired by the tutorial by [Data Tutorials (YouTube)](https://www.youtube.com/w
 
 ⭐ *If you found this project insightful, please give it a star!*
 
-## 📂 Repository Structure
+
 
